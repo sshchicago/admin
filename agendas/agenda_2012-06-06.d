@@ -1,0 +1,16 @@
+# ssh:Chicago Agenda for 2012-05-30 #
+
+## Roll ##
+
+## Correspondence ##
+
+## Old Business ##
+ * Updates on tutorials
+   - Update on Iron Street Farm from Bobby Z.
+ * Update on bylaws from Dmitriy V.
+ * Update on PowerWheels from Mason D.
+ * Update from Adam E. on 30th St. private club.
+ * What projects did we work on over the last week?
+
+## New Business ##
+ * To be tabled unless concludable in 2m or less.
