@@ -9,5 +9,5 @@ Items
 
 - Website FAQ
 - Joint membership
-  - What PS1 likes
-  - How to proceed
+        - What PS1 likes
+        - How to proceed
