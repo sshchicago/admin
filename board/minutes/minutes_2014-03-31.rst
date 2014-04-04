@@ -1,29 +1,38 @@
-Meeting 3/31
-Present: Matt/Dmitriy/Mason/Chris S/Jessica
+Board Meeting 3/31
+============
+Present
+  Matt/Dmitriy/Mason/Chris S/Jessica
 
 - room is echoey and poorly sealed from the world
 
 Website/FAQ
-- need a Real Blog -- agocs teach us to post blogposts, or otherwise move to a different engine
-- Dima wants the wiki reskinned to match the website
+-----------
+- need a Real Blog
+    - agocs teach us to post blogposts?
+    - make glue that lets everyone do it?
+    - move to a different engine
+- Dima wants the wiki reskinned to match the website, in the Distant Future
 - FAQ is kinda vague re: us not just being contractors, so we should revisit the A to that FAQ
 
 Fonts
+-----
 - arial/helvetica/sans-serifs are a fine replacement in browsers/applications that don't allow us to use pretty DIN font
 - helvetica preferred
 
 Joint Membership
+----------------
 - Conversation continues, board meeting at PS:1 will hopefully clarify some things
 - PS:1 had a full member discussion/vote to approve helping us with the memberships for IGG purposes (YAY)
 - probably only have "home hackerspace" in the sense of voting, if full members exist
 
 NSMMF
+-----
 - Dima set us up the table and stuff
 - Probably bring the Reprap, figure out whether or not Nerf stuff will be going on
 - Schedule a Nerf hacking event?
-  - Set date (After NSMMF)
-  - Figure out where (Benton? Our space?)
-  - Making sure small screwdrivers are there
-  - Prepare a lesson plan-ish thing ("presentation"?)
-  - eventbrite
+    - Set date (After NSMMF)
+    - Figure out where (Benton? Our space?)
+    - Making sure small screwdrivers are there
+    - Prepare a lesson plan-ish thing ("presentation"?)
+    - eventbrite
 
