@@ -54,6 +54,7 @@ Notes
 		- Girls in computing
 		- Business plan workshop
 		- Arduino class for general membership
+	- Matt gone
 	- Elections
 		- July 16
 - Ari?
@@ -62,7 +63,6 @@ Notes
 	- Swingler installed Ghost
 	- It's a simple blogging platform
 	- It blogs
-
 - re-signing the lease
 	- Agocs is opposed
 	- We probably should
@@ -74,3 +74,4 @@ Notes
 	- Who is signing us up
 		- Ryan lost nose goes
 		- Agocs volunteered
+	- Matt will be burned in effigy at SSMMF
