@@ -46,6 +46,9 @@ Meeting Items
 		- CTO
 		- PR Director
 	- Nominations due at some point
+- Buildout
+	- Dmitriy wants to comment on it
+	- When can we stop calling it "Buildout" and start calling it "improvements?"
 
 Potpourri
 ---------
