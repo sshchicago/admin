@@ -1,21 +1,22 @@
-Meeting Agenda for 2016-12-07
+Meeting Agenda for 2016-12-14
 ==============================
 
 Roll call
----------
+--------- 
 
-
+Agenda
 ------
 - Treasurer update
 
 - Fire extinguisher inspection
+  
 
 - Sponsorship update
+
 
 Events
 ------
 - Welding: 7pm on Thursdays
-
 
 - Board Game night - 12/10 4:00
 
@@ -23,17 +24,12 @@ Events
 
 - Knife Sharpening w/ Microscopy 01/14 
 
-- Data Science IG
+- Data Science IG - No update
 
 - Raspberry Pi Workshops
-  - Agocs
-  - Dyson Foundation
-  - Chicago Public School Teachers 
-  - 12/13/16 and 12/17/16
-
+  
 - Events with date TBA:
-  - Python
-  - 3d Printer IG
+ 
   
 
 Projects
@@ -42,7 +38,7 @@ Projects
 
 - CNC Router
 
-- Mill 
+- Mill - Still depends on new mill
 
 - New Mill
 
@@ -51,8 +47,6 @@ Projects
 
 Potpourri
 ---------
-
-
 
 
 
