@@ -9,14 +9,13 @@ Agenda
 - Treasurer update
 
 - Fire extinguisher inspection
-  
 
 - Sponsorship update
 
 
 Events
 ------
-- Welding: 7pm on Thursdays
+- Welding: 7pm on Thursdays - (but not 12/15)
 
 - Board Game night - 12/10 4:00
 
@@ -24,11 +23,11 @@ Events
 
 - Knife Sharpening w/ Microscopy 01/14 
 
-- Data Science IG - No update
+- Data Science IG 
 
 - Raspberry Pi Workshops
   
-- Events with date TBA:
+
  
   
 
@@ -38,7 +37,7 @@ Projects
 
 - CNC Router
 
-- Mill - Still depends on new mill
+- Previous Mill 
 
 - New Mill
 
