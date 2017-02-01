@@ -11,6 +11,7 @@ Agenda
 
 - Sponsorship update 
 
+- First Aid Kit
 
 Events
 ------
@@ -26,6 +27,8 @@ Events
   - Guest lecturer - machine learning & sports
  
 - Social Night 
+
+- Birthday Party
  
 
   
@@ -35,15 +38,13 @@ Projects
 - Buildout
  
 - CNC Router    
- 
+  
 - New Mill
   
 - Vending Machine
 
-- Maker Faire
-  - Real Actual Maker Faire
-  - Media Meeting on Feb 7 @ PS1
-  - Expected to be free to join
+- Maker Faire  
+  
 
 Potpourri
 ---------
