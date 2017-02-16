@@ -3,7 +3,7 @@ Meeting Minutes for 2017-02-08
 
 Roll call
 ---------
-Thomas, Swingler, Anndrew, Dmitriy, Agocs, Sanjin, Joe, Matt, Jeff
+Thomas, Swingler, Andrew, Dmitriy, Agocs, Sanjin, Joe, Matt, Jeff
 
 Agenda
 ------
