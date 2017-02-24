@@ -1,0 +1,69 @@
+Eclipse Balloon Launch Presentation - 2-22-2017
+MAtthew Matthew and Mike
+
+How this balloon works
+  - Payload
+    - Radio Equip
+    - Imaging
+    - Science Exp
+    - Communications equip
+
+  - Standard Equip
+    - Styrofoam Cooler
+    - Camera
+    - Transmitter
+    - Ground Receiver
+    - Cutoff Device
+    - $800 total cost
+    - Payloads 
+    - Must be under 6 lbs
+    - Max 2 payloads
+
+  - Tracking
+    - Android Phone
+    - Altimeter
+    - APRS
+      - "Radio Modem" 
+      - Ground station repeaters
+      - Internet connection
+
+  - Legal if we stay within standard parameters
+
+- Eclipse Aug-21
+  - NASA has a grant program for people who wish to launch balloons on this day.
+  - NASA partnership with Montana State University
+  - NASA wll be live-streaming various high-altitude balloon video feeds
+  - Carbondale - "Point of Longest Totality" ~90s
+ 
+-SIU 
+  - Has been really helpful to people launching balloons
+    - Allowing people to launch at SIU stadium - Announcer's Box for "Mission Control"
+    - Laboratory available for final prep
+    - Dedicated Cable Bandwidth just for us
+  - LSU balloon team will also be there
+  - Surrounding Bonanza in Carbondale
+    - 30k-50k people in a town of 26k
+    - Science festival
+    - NASA media team will be there
+    - Carbondale Eclipse Music Fest
+ 
+
+- We need to do a test Launch June 20
+
+- What we might want to do:
+  - VR Camera?
+  - 360 degree camera
+  - GoPro
+
+- Cost 
+  - $7000-$8000
+  - We can crowdfund
+
+
+- WE would need lodgingn near SIU
+  - Bunkhouse in Benton
+    - Sleeps 16
+    - Lunch & Dinner included
+    - Not currently booked for Aug 21.  
+    - 4000 acres
+    - Rosanna's Contact
