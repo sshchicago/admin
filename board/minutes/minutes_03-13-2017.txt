@@ -40,7 +40,6 @@ SSHC BOARD MEETING AGENDA FOR 3-13-2017
   - Joy Holowicki Request
      - Phil - Ok with meetings at space - that's the extent of our current commitment
 
- 
   - Server Ran out of space
      - CTO expanded our server space - $3/mo. cost increase
      - Treasurer approves, suggests 'infrastructure' investment if monthly costs exceed $75/mo.
