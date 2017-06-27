@@ -1,0 +1,55 @@
+Meeting Agenda for 2017-06-28
+==============================
+
+Roll call
+---------
+
+
+Agenda
+------
+- Treasurer update
+
+- Sponsorship update
+
+- PR update
+
+
+Events
+------
+- Welding: 7pm on Thursdays - Not Including 6/29
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 6/23 
+  - 7/14 is next
+
+
+- DSIG - Data Science Interest Group
+  - Next meeting TBD
+
+- Jam Day (musical)
+  - 6/25 @ 1:00PM
+ 
+- Board Game Day
+  - 7/8 @ 1:00Pm-Whenev
+
+- Chicago Public Library Soldering Tutorial Day + Guitar Effects pedal completion day
+  - 7/22
+  - This is Part 1
+
+- Future CPL collaborative teaching
+  - Part 2 - Arduino
+  - Part 3 - Processing
+
+
+Projects
+--------
+- CNC Router
+
+- High Altitude Balloon Project
+
+- Dust Collector
+
+
+Potpourri
+---------

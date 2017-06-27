@@ -1,9 +1,8 @@
-Meeting Agenda for 2017-05-17
+Meeting Agenda for 2017-05-24
 ==============================
 
 Roll call
 ---------
-
 
 
 Agenda
@@ -15,9 +14,6 @@ Agenda
 - PR update
 
 - TidySpace Update 
-  - May 20 - Large Project storage ends
-
-- Areas and Area Captains
 
 - Intel hacks
 
@@ -26,41 +22,65 @@ Agenda
 - Table Saw
 
 - Cyclonic Dust Seperator
-  - Vote 
+
 
 Events
 ------
-- Welding: 7pm on Thursdays - Likely tomorrow
+- Welding: 7pm on Thursdays - Including Tomorrow
 
 - Jam day (Music)
-  - Phil's gonna pick a day
+  - TBD
 
-- Guitar Effects pedal completion day
-   - TBD
+- Guitar Effects pedal & General Soldering completion day
+  - TBD
 
 - Social Night
   - 2nd and 4th Fridays
-  - 5/12
+  - Next Social night 5/26 (maybe)
 
 - Hack the Attack (Akido)
-  -5/13
+  -5/20 @11am
 
 - Back room Clean Up
   - 5/20
 
 - DSIG - Data Science Interest Group 
-  - 6/15 
+  - 6/13
+  - Kaggle
+  - Titanic Dataset Problem
+
+- Jam Day (musical)
+  - 6/25 @ 1:00PM
+  
+- Board Game Day
+  - 7/8 
+
+- CPS Soldering Tutorial Day
+  - 7/22
 
 Projects
 --------
 - CNC Router
-  - No update
+  - Cart in progress
 
 - High Altitude Balloon Project
-  - 6/1 @ 7pm
 
 - Third Hand tool
-  
+
+- Cyclonic Dust Seperator
  
 Potpourri
 ---------
+
+
+
+
+
+
+
+
+
+
+
+
+
