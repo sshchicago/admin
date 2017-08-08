@@ -1,0 +1,88 @@
+Meeting Agenda for 2017-07-19
+==============================
+
+Roll call
+---------
+
+
+Agenda
+------
+- Treasurer update
+  - Financial year ends at end of July
+
+- Sponsorship update
+
+- PR update
+
+- Wood box proposal
+  - Vote 7/19 - Today
+
+Events
+------
+- Welding: 7pm on Thursdays - Including tomorrow -  
+- Hack the attack - Sundays 11:00am-1:00pm
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 7/14 
+  - 7/28 is next
+
+
+- DSIG - Data Science Interest Group
+  - Future updates TBD
+
+- Electronics Area cleanup
+  - 7/15
+
+- Chicago Public Library Soldering Tutorial Day + Guitar Effects pedal completion day
+  - 7/22
+  - This is Part 1
+  - Will take place @ SSH:C
+
+- Future CPL collaborative teaching
+  - Part 2 - Arduino
+  - Part 3 - Processing
+
+
+Projects
+--------
+- CNC Router
+
+- High Altitude Balloon Project
+ 
+- Dust Collector
+
+- Mill
+  
+
+What New Tools Need What
+-----------------------
+  - Lathe
+  - CNC
+  - Cabinet
+
+Potpourri
+---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
