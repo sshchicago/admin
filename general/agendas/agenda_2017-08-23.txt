@@ -1,0 +1,97 @@
+Meeting Agenda for 2017-08-23
+==============================
+
+Roll call
+---------
+
+
+Agenda
+------
+- Treasurer update
+
+- Sponsorship update
+
+
+- PR update
+
+- Laser cutter
+
+
+- Cameras?
+    
+
+- Printer
+  - Motion to buy a printer
+  - $170
+  - Multi-Function
+    - Printing
+    - Scanning
+    - Copying
+  - 11x17 enabled
+  - Laser
+  - Our current printer is not good - but does not need to be thrown out
+  - Vote on 8/30
+
+- Fobs
+  - We are getting rid of metal keys
+
+
+Events
+------
+- Welding: 7pm on Thursdays - 
+- Hack the attack (Aikido)- Sundays 11:00am-1:00pm - tentatively cancelled
+  - Could be expanded to Saturday 11-1
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 8/25 is next
+    - No set plans
+
+- DSIG - Data Science Interest Group
+  - Stay Tuned for more date info
+  - Next class will be "Nuts and bolts of Data Set in a PANDAS data frame"
+  - Titanic data set to be used
+  - Python will be used
+
+- Chicago Public Library Educational Events
+  - Part 3 - 9/8 - Processing
+    - Processing is similar to Arduino interface
+
+Projects
+--------
+- CNC Router
+  - In the process of scribing some metal pieces
+
+- High Altitude Balloon Project
+  
+ 
+- Dust Collector
+  - Been bought
+
+- Mill
+  - Still on a pallet
+  - Final space needs to be found
+ 
+
+What New Tools Need What
+-----------------------
+  - Lathe
+    - Belt
+
+  - CNC
+    - Time
+    - Love
+
+  - Blasting Cabinet
+    - A place to live
+ 
+
+Potpourri
+---------
+
+
+
+
+
+
+

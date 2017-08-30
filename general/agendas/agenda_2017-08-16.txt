@@ -1,0 +1,75 @@
+Meeting Agenda for 2017-08-08
+==============================
+
+Roll call
+---------
+
+Agenda
+------
+- Treasurer update
+
+- Sponsorship update
+
+- PR update
+
+
+Events
+------
+- Welding: 7pm on Thursdays - Not on 8/10, but possibly on 8/17
+- Hack the attack (Aikido)- Sundays 11:00am-1:00pm
+  - Could be expanded to Saturday 11-1
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 8/11 is next
+
+- DSIG - Data Science Interest Group
+  - Stay Tuned for more info
+  - Next class will be "Nuts and bolts of Data Set in a PANDAS data frame"
+  - Titanic data set to be used
+  - Python will be used
+  -
+
+- Chicago Public Library Educational Events
+
+  - Part 2 - 8/12 - Arduino & Microcontrollers
+
+  - Part 3 - 9/8 - Processing
+
+- South Side Mini Maker Faire
+  - 8/5 
+
+Projects
+--------
+- CNC Router
+  - No Update
+
+- High Altitude Balloon Project
+
+ 
+- Dust Collector
+ 
+
+- Mill
+  - Needs fuses
+  - Needs Power
+
+ 
+
+What New Tools Need What
+-----------------------
+  - Lathe
+    - Belt
+
+  - Mill
+    - Fuses
+    - Power hookup
+
+  - CNC
+    - Time
+
+  - Blasting Cabinet
+  
+
+Potpourri
+---------
