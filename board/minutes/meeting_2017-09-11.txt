@@ -31,8 +31,9 @@ SSHC BOARD MEETING MINUTES FOR 09-11-2017
  - Reduce termination procedure to 1 week
  - Clear up when Appeal General Body Meeting is picked
  - Written Notice includes right of Board to limit Member's participation in org
+ 
  - Website
- - no update
+   - no update
 
 - Fobs
  - ongoing, still a few members to go
@@ -44,14 +45,14 @@ SSHC BOARD MEETING MINUTES FOR 09-11-2017
 
 - Potpourri
  - UIC visitors
- - Would like to revolutionize hackerspaces
- - NSF grant to create software to improve communication in the space, etc
- - they want to write it for us
- - no financial obligation to us
- - we have control of data
- - no strong opinions from the Board
- - printer and label tape order
+   - Would like to revolutionize hackerspaces
+   - NSF grant to create software to improve communication in the space, etc
+   - they want to write it for us
+   - no financial obligation to us
+   - we have control of data
+   - no strong opinions from the Board
+ - printer and label tape ordered
  - TechSoup AWS
- - $175 in admin fees annual for $2000 of AWS credits
- - credits don't roll over
- - to be proposed later?
+   - $175 in admin fees annual for $2000 of AWS credits
+   - credits don't roll over
+   - to be proposed later?
