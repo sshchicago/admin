@@ -1,0 +1,80 @@
+Roll call
+---------
+
+Agenda
+------
+- Treasurer update
+
+
+- Sponsorship update
+  - Stanley
+    - Most Stuff is Here
+    - Stuff is being inventoried
+    - Some Stuff Damaged - Stanley May replace
+    - Stanley can't send some items, but will send us other items in place.
+      -What Items shall replace the stuff they couldn't send us? 
+      - Area captains will decide based on list of desired items
+      - Email Mike if you want to request something.
+
+- PR update
+
+
+- Cameras
+ 
+
+- Fobs
+  - We are getting rid of metal keys
+
+- Printer
+
+Events
+------
+- Welding: 7pm on Thursdays - not 9/7, but likely 9/14
+- Hack the attack (Aikido)- Sundays and Saturdays 11:00am-1:00pm
+ 
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 9/8 is next
+
+- DSIG - Data Science Interest Group
+  - Stay Tuned for more date info
+  - Next class will be "Nuts and bolts of Data Set in a PANDAS data frame"
+  - Titanic Data Set to be used
+  - Python will be used
+  - Guest Presenter: Aaron Stubberfield
+
+- Chicago Public Library Educational Events
+  - Part 3 - 9/8 - Processing+Arduino
+    - Processing is similar to Arduino interface
+
+- HAM Radio
+ 
+Projects
+--------
+- CNC Router
+  - Drilling Holes and Fitting Stuff together
+
+- High Altitude Balloon Project
+ 
+- Dust Collector
+  - No Update
+
+- Laser Cutter
+  - No Update
+
+What New Tools Need What
+-----------------------
+  - Lathe
+    - It needs a belt
+
+  - CNC
+    - Time
+    - Love
+
+  - Blasting Cabinet
+    - A place to live
+ 
+
+Potpourri
+---------
