@@ -1,36 +1,41 @@
-Meeting Agenda for 2017-09-20
+Meeting Minutes for 2017-09-27
 ==============================
 
 Roll call
 ---------
 
+
 Agenda
 ------
 - Treasurer update
+  - No Update
 
 - Sponsorship update
 
 - PR update
+  - No Update
 
 - Cameras
-
-- TechSoup AWS Free money Proposal
+  - Vote
 
 - Mobile tool bases
+  - Proposal to buy (6) mobile tool bases
 
 - Fobs
+  - We are getting rid of metal keys
 
-- Areas
+- Areas Cap'n's
   - Wood 
 
   - Rapid Prototype
 
   - Front Room
 
+- Elections
 
 Events
 ------
-- Welding: 7pm on Thursdays - 
+- Welding: 7pm on Thursdays - Including 9/21
 - Hack the attack (Aikido)- Sundays and Saturdays 11:00am-1:00pm
 
 - Social Night
@@ -39,12 +44,16 @@ Events
 
 - DSIG - Data Science Interest Group
   - 10/3
+  - "Nuts and bolts of Data Set in a PANDAS data frame"
+  - Titanic Data Set to be used
+  - Python will be used
+  - Guest Presenter: Aaron Stubberfield
 
 - HAM Exam Review
   - 9/23 - 2:00pm
 
 - Radio Night
-  - 9/18
+ 
 
 Projects
 --------
@@ -52,14 +61,13 @@ Projects
   - Drilling Holes and Fitting Stuff together
 
 - High Altitude Balloon Project
-  - Is over
-  - Except for Kickstarter fulfillments
  
 - Dust Collector
 
 - Laser Cutter
   - No update
 
+- TechSoup
 What New Tools Need What
 -----------------------
   - Lathe
@@ -78,24 +86,5 @@ What New Tools Need What
 
 Potpourri
 ---------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

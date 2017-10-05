@@ -1,0 +1,107 @@
+Meeting Agenda for 2017-10-04
+==============================
+
+Roll call
+---------
+
+Agenda
+------
+- Treasurer update
+  - We have a balance of $9344.44
+  - Of which $1794.61
+  - Full balance sheet on mailing list
+
+- Sponsorship update
+
+- PR update
+  - No Update
+
+- Fobs
+  - We are getting rid of metal keys
+
+- Areas Cap'n's
+  - back room
+  
+  - Rapid Prototype
+    
+  - Front Room
+
+- Elections
+  - Coming up
+  - Thinking about running?  Step up!  SSHC needs you
+  - October 11
+  - Must be a full member and a member (of any level) for 6 months.
+  - Nominations open! UNtil 
+    - Treasurer - Dmitriy
+    - Secretary - Thomas
+    - Member at Large - Thomas
+
+Events
+------
+- Welding: 7pm on Thursdays - Possibly 9/28
+- Hack the attack (Aikido)- Sundays and Saturdays 11:00am-1:00pm
+  - But not 10/7 or 10/8! 
+
+- Social Night
+  - 2nd and 4th Fridays
+  - 10/13 is next
+
+- DSIG - Data Science Interest Group
+  - 10/3 - That's a tuesday
+  - "Nuts and bolts of Data Set in a PANDAS data frame"
+  - Titanic Data Set to be used
+  - Python will be used
+  - Guest Presenter: Aaron Stubberfield
+
+- HAM Exam Testing
+  - 
+
+- Radio Night
+  - Monday nights
+
+- Coding Challenge
+
+Projects
+--------
+- Mobile tool bases
+
+- CNC Router
+  - Drilling Holes and Fitting Stuff together
+  - In last two weeks, X-axis has been attached, Y axis mounted
+
+- High Altitude Balloon Project
+
+- Dust Collector
+
+- Laser Cutter
+  
+
+
+What New Tools Need What
+-----------------------
+  - Lathe
+    - belt Needs to be attached
+
+  - CNC
+    - Time
+    - Love
+
+  - Blasting Cabinet
+    - A place to live
+  
+  - Bandsaw
+    - Being looked at
+ 
+
+Potpourri
+---------
+
+
+
+
+
+
+
+
+
+
