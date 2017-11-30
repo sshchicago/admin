@@ -1,0 +1,89 @@
+Meeting Agenda for 2017-11-15
+=============================
+Agenda
+  -Treasurer update
+     
+  -Sponsorship update
+      
+
+  -PR update
+     
+
+  -Areas Cap'n's
+
+    -back room
+          
+
+    -Rapid Prototype
+          
+
+     -Front Room
+         
+
+  -UIC collaboration
+    
+
+  -Motion for area captains to get $300/yr to spend on consumables
+    -Check mailing list and wiki
+    -Vote on 11/18/2017
+
+Events
+
+  -Hack the attack (Aikido)- Sundays and Saturdays 11:00am-1:00pm
+    -Including this week
+
+  -Social Night
+    -2nd and 4th Fridays
+    -11/10
+    -11/24 is next
+
+  - DSIG - Data Science Interest Group
+        -Next Date tbd
+        -Review of basic statistics to central limit theory
+
+  -Radio Night
+    -Monday nights
+    -Check mailing list for info
+    -All weather
+
+  -Coding Challenge
+      
+
+  -Board Games & Tea Tasting Afternoon
+    - 11/18 (that's a Saturday)
+    - 2:00pm - whenev
+    - Phil will provide kettle, french press, and a "collection of teas"
+
+Projects
+
+  -Mobile tool bases
+
+  -CNC Router
+    - Drilling Holes and Fitting Stuff together
+    - Made use of the metal cutting saw - cuts well but doesn't do precision cuts. 
+     
+
+  -Dust Collectors
+
+    -Large
+ 
+     - Small
+       -Use this one for now for "small dust port tools"
+
+    -High Speed Fastcap investigation
+  
+
+-What New Tools Need What
+
+   -Lathe
+      -belt is half-on
+      -The other half to go on by 11/22
+      - Competent Operator
+
+    -CNC
+      -Time
+      -love  
+
+    -Laser Cutter
+       
+- Potpourri

@@ -1,0 +1,72 @@
+Meeting Agenda for 2017-11-29
+=============================
+Roll Call:
+
+
+Agenda
+  -Treasurer update
+    - No Update
+
+  -Sponsorship update
+ 
+  -PR update
+
+  -Areas Cap'n's
+
+    - back room
+
+    - Rapid Prototype
+
+    - Front Room
+
+  - Cameras
+  - Motion for area captains to get $300/yr to spend on consumables
+    - Check mailing list and wiki for formal def
+    - $1000 for board to spend, including for supplies for each area
+    - To be spent on tool replacement parts, etc.
+    - This approach is easier to manage than separate budgets for each area.  
+    - Vote on 12/6/2017
+   
+Events
+
+  -Hack the attack (Aikido)-Sundays and Saturdays 11:00am-1:00pm
+    -
+
+  -Social Night
+    -2nd and 4th Fridays
+    - 12/8 is next
+
+
+  - DSIG - Data Science Interest Group
+        -Next Date tbd
+        -Review of basic statistics up to and including central limit theory
+
+  -Coding Challenge
+    - Check mailing list
+    - No update     
+
+Projects
+
+  -Mobile tool bases
+    - Three remain 
+    - For drill presses & bandsaw
+
+  - CNC Router
+
+  - High Speed Fastcap investigation
+    - No Update
+   
+- What New Tools Need What
+
+   -Lathe
+      -belt is half-on
+      -The other half to go on by 12/3
+      - Competent Operator
+
+    -CNC
+      -Time
+      -love 
+
+    -Laser Cutter
+      
+- Potpourri

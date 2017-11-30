@@ -1,0 +1,103 @@
+SSHC BOARD MEETING AGENDA FOR 10-24-2017
+========================================
+- New Board
+  - Dmitriy needs to get new physical keys to everyone (aiming for weekend of 10/28)
+  - Technical changeovers - complete?
+     - Thomas needs to learn lastpass
+     - Update google group - There is not a Google Group
+     - Website need to be updated
+
+  - Confirm Jessica as PR but not on the Board
+     - Proposal - Membership for PR work
+     - "Motion" passses
+
+  - Overview of roles - 
+     - MAL potentially doing active things
+
+- Bylaws/Procedural Updates
+  - All documentation will need to be updated
+  - Membership termination
+    - To be updated
+  
+  - Remember to purchase Directors and Officer's insurance in a few months
+  - Membership structure
+   - Consider insentivizing voting and Board participation
+   - Single membership tier vs Board participation discount
+   - A la carte options
+   - Anti
+     - Large burden for managing a la carte options
+     - "Limited selection of more actively engaged individuals"
+     -  Bad idea to hand out voting rights to less concerned members
+   - Pro
+     - How do we get more people to run for the board
+   - This is possible only with transfer from Paypal to Stripe
+   - We will investigate possible board discounts
+   - Quorum 
+     - Currently only 10
+     - Some votes have huge turnouts, since they have certain ugency and effect
+     - Salesmanship may be a part of this
+     - Ask membership how to get them to vote
+
+- Surveillence System
+  - Cost around $1000
+    - Big DVR appliance
+    - Network Attached Storage
+  - What should we propose?
+
+- Area Reports
+  - Rapid Prototyping
+   - Full Spectrum Laser are jerks
+   - UP Mini testing ongoing
+  - Back Room
+   - Inventory soon?
+  - Front Room
+   - Clean up HAB stuff - Goal: HAB Stuff: On shelves in back room
+
+- HAB Money
+  - Fulfillment costs: 275.22 for Jeff
+  - Phil to Audit expenses and "who paid what and who owes what"
+
+- Future Events
+  - Chicago Maker Summit 
+   - Truman College (Wilson Red Line Stop)
+   - 11/6 
+   - Erik, Thomas, perhaps Dmitriy
+
+  - Adler Planetarium Pop-up Programs
+   - 12/26-12/30
+   - Do we want to participate?
+   - We'll ask membership
+
+- Front Door / LDAP
+  - "Mostly Done"
+  - Card reader POC works
+  - But needs some tweaking
+
+- UIC Hackerspace Partnership
+  - We're in
+  - Also long as we can opt-out
+
+- Potpourri
+  - Andrew forgot to send a thank you email to lathe lady
+  - Voting procedure times
+    - Individual emails for individual motions
+    - Proxy Vote by 7:30?
+    - Require it to be on the wiki?
+  - Guy wants to interivew someone - Anyone wanna talk to him?
+    - Let's make Jessica do it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

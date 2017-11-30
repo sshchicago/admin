@@ -1,28 +1,33 @@
-Meeting Agenda for 2017-10-11
+Meeting Minutes for 2017-10-11
 =============================
 
 Roll call
 ---------
+Thomas G., Dmitriy, Josef, Mark, Jeff, Ryan(new)
 
 Agenda
 ------
 - Treasurer update
-
+  - No UPdate
 
 - Sponsorship update
-
+  - Stanley stuff still coming
 
 - PR update
   - No Update
 
 - Areas Cap'n's
   - back room
-   
+    - Stanley Toughbox Rack built - still being added to
+    
   
   - Rapid Prototype
+    - 5 UPmini printers, three are functional  
+    - Broken piece from the new laser has been sent out.
 
     
   - Front Room
+    - No Update
  
 
 - Elections
@@ -34,6 +39,8 @@ Agenda
     - President - Phil, Agocs
     - PR Director (Aux Position) - Christian
     - CTO (Aux position) - Christian
+
+  - Quorum not met, vote postponed until 10/18
 
 Events
 ------
@@ -54,9 +61,12 @@ Events
   - Challenge to encourage people to learn 
   - Awards to be given
   - Challenge still in development
+  - Date tbd - To be announced before 10/18
 
 - River Forest MMF
   - 10am-3pm River Forest Public Library
+  - Andrew + Dmitriy
+  - "Went ok" HAB was shown off
 
 - Maker Summit
   - 11/6 (That's a Monday)
@@ -66,18 +76,23 @@ Events
 Projects
 --------
 - Mobile tool bases
+  - Smaller band saw now has one.
+  - Band saw needs fastening
  
 
 - CNC Router
   - Drilling Holes and Fitting Stuff together
 
 - High Altitude Balloon Project
+  - Still fulfilling
   
 
 - Dust Collector
-  - Dust Collector 1    
+  - Dust Collector-Big
+    - "Like 90% done"
  
-  - Dust Collector 2
+  - Dust Collector - Small
+    - No update
    
 
 
@@ -91,15 +106,36 @@ What New Tools Need What
     - Time
     - Love
 
-  - Blasting Cabinet
- 
   
- - Laser Cutter
+  - Laser Cutter
+    - Pieces
 
 
 
 Potpourri
 ---------
+- Please vote if you can
+- We want to alter membership tiers 
+  - New discussion to happen within the next board
+  - Alter to increase participation
+  - Single tier membership?
+  - Board discount?
+   
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

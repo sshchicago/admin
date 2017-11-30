@@ -1,84 +1,80 @@
-Meeting Agenda for 2017-10-11
+Meeting Agenda for 2017-11-01
 =============================
 
 Roll call
 ---------
+Thomas, Jeff, Phil, Mike, 
 
 Agenda
 ------
 - Treasurer update
 
-
 - Sponsorship update
 
-
 - PR update
-  - No Update
 
 - Areas Cap'n's
   - back room
-   
-  
+ 
   - Rapid Prototype
 
-    
   - Front Room
+
+- UIC collaboration
  
 
-- Elections
-  - Nominations 
-    - Treasurer - Dmitriy
-    - Secretary - Thomas
-    - Member at Large - Jeff, Thomas
-    - Vice President - Jeff Carr
-    - President - Phil, Agocs
-    - PR Director (Aux Position) - Christian
-    - CTO (Aux position) - Christian
 
 Events
 ------
-- Welding: 7pm on Thursdays - HIATUS
 - Hack the attack (Aikido)- Sundays and Saturdays 11:00am-1:00pm
+
 
 - Social Night
   - 2nd and 4th Fridays
-  - 10/13 is next
+  - 11/10 is next
 
 - DSIG - Data Science Interest Group
   - Next Date tbd
 
 - Radio Night
   - Monday nights
+  - Check mailing list for info
+  - All weather 
 
 - Coding Challenge
-  - Challenge to encourage people to learn 
-  - Awards to be given
-  - Challenge still in development
-
-- River Forest MMF
-  - 10am-3pm River Forest Public Library
+  - Check email list
 
 - Maker Summit
-  - 11/6 (That's a Monday)
+  - 11/6 (That's a Monday) 6:30pm-8:30pm
   - Truman College (Wilson Avenue Red Line)
   - Various Making/Fabbing/Hacking organizations meet 'n' talk
+  - Early Childhood Education Tinkering Lab presentation
+  - Cardboard Challenge
+  - Dmitriy(Maybe)- Thomas - Erik
+
+- Board Games & Tea Tasting Afternoon
+  - 11/18
+  - 2:00pm - whenev
+  - Phil will provide kettle, french press, and a "collection of teas"
 
 Projects
 --------
 - Mobile tool bases
- 
+  - Still Under assembly
 
 - CNC Router
   - Drilling Holes and Fitting Stuff together
 
-- High Altitude Balloon Project
-  
-
-- Dust Collector
-  - Dust Collector 1    
+- Dust Collectors
+  - Large
+    - Motor has burned out
  
-  - Dust Collector 2
-   
+  - Dust Collector - Small
+     - Use this one instead
+
+- High Speed Fastcap investigation
+  - No update
+  
 
 
 What New Tools Need What
@@ -90,11 +86,9 @@ What New Tools Need What
   - CNC
     - Time
     - Love
-
-  - Blasting Cabinet
  
-  
- - Laser Cutter
+  - Laser Cutter
+    - Pieces
 
 
 

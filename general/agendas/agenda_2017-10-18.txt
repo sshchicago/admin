@@ -1,13 +1,14 @@
-Meeting Agenda for 2017-10-11
+Meeting Agenda for 2017-10-18
 =============================
 
 Roll call
 ---------
 
+
 Agenda
 ------
 - Treasurer update
-
+  - No UPdate
 
 - Sponsorship update
 
@@ -17,12 +18,13 @@ Agenda
 
 - Areas Cap'n's
   - back room
-   
+    
   
   - Rapid Prototype
 
     
   - Front Room
+
  
 
 - Elections
@@ -34,6 +36,8 @@ Agenda
     - President - Phil, Agocs
     - PR Director (Aux Position) - Christian
     - CTO (Aux position) - Christian
+
+
 
 Events
 ------
@@ -54,19 +58,23 @@ Events
   - Challenge to encourage people to learn 
   - Awards to be given
   - Challenge still in development
+  - Date tbd - To be announced before 10/18
 
 - River Forest MMF
   - 10am-3pm River Forest Public Library
+  - Andrew + Dmitriy
+  - "Went ok" HAB was shown off
 
 - Maker Summit
-  - 11/6 (That's a Monday)
+  - 11/6 (That's a Monday) 6:30pm-8:30pm
   - Truman College (Wilson Avenue Red Line)
   - Various Making/Fabbing/Hacking organizations meet 'n' talk
+  - Early Childhood Education Tinkering Lab presentation
+  - Cardboard Challenge
 
 Projects
 --------
 - Mobile tool bases
- 
 
 - CNC Router
   - Drilling Holes and Fitting Stuff together
@@ -75,9 +83,12 @@ Projects
   
 
 - Dust Collector
-  - Dust Collector 1    
+  - Dust Collector-Big
+    - Is collecting dust as planned.
+    - May require future revision
+    - Check wiki for correct dust collector usage
  
-  - Dust Collector 2
+  - Dust Collector - Small
    
 
 
@@ -91,15 +102,30 @@ What New Tools Need What
     - Time
     - Love
 
-  - Blasting Cabinet
- 
   
- - Laser Cutter
+  - Laser Cutter
+    - Pieces
 
 
 
 Potpourri
 ---------
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

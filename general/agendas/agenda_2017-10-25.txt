@@ -1,39 +1,29 @@
-Meeting Agenda for 2017-10-11
+Meeting Agenda for 2017-10-25
 =============================
 
 Roll call
 ---------
 
+
 Agenda
 ------
 - Treasurer update
-
+  - No UPdate
 
 - Sponsorship update
-
+  - No Update
 
 - PR update
-  - No Update
+  
 
 - Areas Cap'n's
   - back room
    
-  
+ 
   - Rapid Prototype
 
-    
   - Front Room
- 
 
-- Elections
-  - Nominations 
-    - Treasurer - Dmitriy
-    - Secretary - Thomas
-    - Member at Large - Jeff, Thomas
-    - Vice President - Jeff Carr
-    - President - Phil, Agocs
-    - PR Director (Aux Position) - Christian
-    - CTO (Aux position) - Christian
 
 Events
 ------
@@ -42,7 +32,7 @@ Events
 
 - Social Night
   - 2nd and 4th Fridays
-  - 10/13 is next
+  - 10/27 is next
 
 - DSIG - Data Science Interest Group
   - Next Date tbd
@@ -51,34 +41,43 @@ Events
   - Monday nights
 
 - Coding Challenge
-  - Challenge to encourage people to learn 
+  - Challenge to encourage people to learn
   - Awards to be given
   - Challenge still in development
-
-- River Forest MMF
-  - 10am-3pm River Forest Public Library
+  - Check email list
 
 - Maker Summit
-  - 11/6 (That's a Monday)
+  - 11/6 (That's a Monday) 6:30pm-8:30pm
   - Truman College (Wilson Avenue Red Line)
   - Various Making/Fabbing/Hacking organizations meet 'n' talk
+  - Early Childhood Education Tinkering Lab presentation
+  - Cardboard Challenge
+  - Dmitriy - Thomas - Erik
+
+- Board Games & Tea Tasting Aft.
+  - 11/18
+  - 2:00pm - whenev
+  - Phil will provide kettle, french press, and a "collection of teas"
 
 Projects
 --------
 - Mobile tool bases
- 
+  - Under assembly
+  - Safety note:  lock both wheels!
 
 - CNC Router
   - Drilling Holes and Fitting Stuff together
 
 - High Altitude Balloon Project
-  
 
 - Dust Collector
-  - Dust Collector 1    
+  - Motor has burned out
  
-  - Dust Collector 2
-   
+ 
+  - Dust Collector - Small
+
+- High Speed Fastcap investigation
+  
 
 
 What New Tools Need What
@@ -91,17 +90,12 @@ What New Tools Need What
     - Time
     - Love
 
-  - Blasting Cabinet
  
-  
- - Laser Cutter
+  - Laser Cutter
+    - Pieces
 
 
 
 Potpourri
 ---------
-
-
-
-
 
