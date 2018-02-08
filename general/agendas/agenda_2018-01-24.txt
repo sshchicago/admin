@@ -1,0 +1,61 @@
+Meeting Agenda for 2018-01-24
+=============================
+Roll Call:
+
+Agenda
+  -Treasurer update
+
+
+  -Sponsorship update
+ 
+
+  -PR updates
+
+
+  -Areas Cap'n's
+    - back room
+      - "Looking Clean"
+      - Please take drill bits and router bits out of the drills and routers when you're done.
+      - Mike is working out certification checklists - Got any ideas or want to help?  Contact him
+      - Shelf plans coming
+
+    - Rapid Prototype
+
+    - Front Room
+
+Events
+ 
+  -Hack the attack (Aikido)-Sundays and Saturdays 11:00am-1:00pm
+
+  -Social Night
+    -2nd and 4th Fridays
+    - 1/26 is next
+
+  - DSIG - Data Science Interest Group
+        - Jan 23 @ 7:00 PM (That's a Tuesday)
+        - Review of basic statistics up to and including central limit theory
+
+  - Coffee, Tea 'n' Board Games
+    - Feb 10 @ 2pm - Whenev
+    - See title for more information
+     
+
+Projects
+
+  - CNC Router
+  
+  - Table Saw
+    - Current blades need sharpening
+
+  - Security Cameras
+
+- What New Tools Need What
+
+   - Lathe
+     - Love & Oil
+
+   - CNC
+      -Time
+ 
+- Potpourri
+  - SSH:C Birthday - 3/7 - Party on 3/10?
