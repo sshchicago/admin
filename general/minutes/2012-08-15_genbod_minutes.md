@@ -1,4 +1,4 @@
-# ssh:chicago Meeting Agenda for 2012-08-08 #
+# ssh:chicago Meeting Agenda for 2012-08-15 #
 
 ## Roll ##
 Adam E., Dmitriy V., John S., Lance C., Mark ?, Mason D., Matt C., Nicolette K., Rob ?

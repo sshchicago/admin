@@ -1,5 +1,5 @@
-SSH:C Minutes for General Meeting 2015-01-06
-===========================================
+SSH:C Minutes for General Meeting 2015-01-07
+============================================
 
 Roll Call
 ---------

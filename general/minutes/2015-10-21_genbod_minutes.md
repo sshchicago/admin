@@ -1,4 +1,4 @@
-General Meeting 2015-10-20
+General Meeting 2015-10-21
 ==========================
 
 Roll Call

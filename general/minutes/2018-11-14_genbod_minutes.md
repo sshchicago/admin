@@ -1,4 +1,4 @@
-MEETING MINUTES 2018-11-7
+MEETING MINUTES 2018-11-14
 ==========================
 Roll call: Dmitry, Erin, Chrisian, Jeff
 
