@@ -1,4 +1,4 @@
-Meeting Notes 2014-08-16
+Meeting Notes 2014-08-18
 ===============
 
 Hangout
