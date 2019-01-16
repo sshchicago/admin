@@ -12,12 +12,12 @@ Agenda
   - We're doing fine, no update until month end
   - $2000 in project fund
   - Paypal identity handoff issues persist
- 
-- Sponsorship update
+  
+- Sponsorship update 
   - Previous Donors
-    - Fastcap
+    - Fastcap 
       - Woodworking Tools, fasteners, PPE, etc
-      - Want to give us more stuff
+      - Want to give us more stuff 
       - No specified price limit
       - Google form available until 5pm Thursday 03/09
     - Stanley
@@ -30,28 +30,31 @@ Events
 ------
 - Welding: 7pm on Thursdays - Including tomorrow, but not 03/16
 
-- Knife Sharpening w/ Microscopy
+- Knife Sharpening w/ Microscopy 
   - Date tbd
   - Likely Saturday Afternoon
   - Mechanical Sharpening - Buffing, honing, polishing
- 
- 
-- Social Night
-    - 2nd and 4th Fridays
-    - 3/24
-
-- Birthday Party
-  - 3/10  @7pm
-  - Very social
-
-
+  
 - DSIG
   - 3/7 @ 6pm or 7pm
-  - Guest speaker - Aaron Stubberfield
+  - Guest speaker - Aaron Stubberfield 
   - 6 Attendees - Well-liked
   - Once a month follow up? tbd
   - Mailing list discussion to occur
   - Next event tbd
+ 
+- Birthday Party
+  - 3/10  @7pm
+  - Very social
+
+- CryptoParty
+  - 3/19 @ noon (That's a sunday)
+  - Understand and use computer privacy&security tools 
+  - Simple and Complex
+
+- Social Night 
+    - 2nd and 4th Fridays
+    - 3/24
 
 - Maker Faire - "Grown Up Science Fair"
   - 4/22-23
@@ -63,29 +66,26 @@ Events
   - 4/29
   - Bring your own kit, and solder it at the class
   - Resources for acquiing pedals are posted
- 
-- Jam day
-  - Talk to Phil
- 
+  
 
 - North Side Mini Maker Faire
   - 5/6
 
-- CryptoParty
-  - 3/19 @ noon (That's a sunday)
-  - Understand and use computer privacy&security tools
-  - Simple and Complex
- 
+- Jam day
+  - Talk to Phil
+
+
+  
 New Business
 ------------
 - Third Hand tool
   - Spend <$70 for third hand tools
   - For Soldering
-  -
+  - 
   - MOney allocated to
     - ALuminum base plate
     - Alligator Clips
-    - Die & Tap
+    - Die & Tap 
   - Vote to occur 3/22
 
 Projects
@@ -94,12 +94,12 @@ Projects
   - WE have excess components
   - Organization continues
   - TidySpace stickers active
-  - Air Compressor now has a switch - Leave it off 
+  - Air Compressor now has a switch - Leave it off  
 
-- CNC Router
-  - No Update 
+- CNC Router 
+  - No Update  
 
-- Eclipse Ballooning Project
+- Eclipse Ballooning Project 
   - We're sending a balloon to near space during the eclipse
   - On the mailing list
 
@@ -117,3 +117,8 @@ Potpourri
 - Like us on Facebook!
 - Lets Clean
 - Adam Savage was contacted.  No response yet.
+
+
+
+
+

@@ -3,25 +3,31 @@ Meeting Minutes for 2017-02-22
 
 Roll call
 ---------
-Thomas, ANdrew, Dan, Swingler, Rosanna, Stevie, Sam, Tony,
+Thomas, Sam, Stevie, Andrew, Dan, Swingler, Jeff, Rosanna, Mike, Tony, Thomas S.
 
 Agenda
 ------
 - Treasurer update
-   - Update Next Week
+  - COming next meeting
 
 - Sponsorship update 
   - Oneida
-    - They Will give us a small donation (small dust collector)
-    - They might follow up with a big donation
-    - They will be here in august for a convention
+    - Initial Donation (Something Smaller) - Medium Sized Dust COllector
+    - "More Full" Donation
+      - They need info
+      - They will think it over
+    - They'll be here in August
+    - Info as it's available
   - Weber Grill has been contacted
-  - 
+  - http://tinyurl.com/sshchicago-donation-request
+
 - Bandsaw
   - Proposal
+  - Still waiting for official proposal
+  - 
  
 - Recycle Bin
- 
+  - 
 
 
 Events
@@ -52,7 +58,9 @@ Events
 
 - PhlatPrinter Workshop
   - 3/1
-  - After the meeting
+  - After Gen Bod Meeting
+  - How to make CNC Code
+  - Get MAch3 Operational w/o Dan
 
 - DSIG
   - 3/7 @ 6pm or 7pm
@@ -60,6 +68,7 @@ Events
 
 - Maker Faire
   - 4/22-23
+  - Proposal to thank our Sponsors
 
 - Guitar Effects Pedal
   - 4/29
@@ -70,33 +79,48 @@ Events
 
 - North Side Mini Maker Faire
   - 5/6
+  - We need to RSVP
   
 New Business
 ------------
-- Drill Press
+-Drill Press
+
 
 Projects
 --------
 - Buildout
-  - Cleaning still ongoing
-  - French Cleats moved
-  - Free shelf leftover
+  - Cleanup Still Happening
+  - French cleat thing new
+  - Free shelf - Come get
  
-- CNC Router 
-  - Waiting on a cable  
+- CNC Router   
 
 - Eclipse Ballooning Project -  Matthew Wendeln
 
 
 Potpourri
 ---------
-- Party at the Plant
-  - 3/4 3pm-9pm
-  - Bands
-  - Fire and Ice Igloo
-  - Games
-  - Bands starting at 6pm
+- "The Plant" Party (!)
+  - 3/4 3p-9pm
+  - License to Chill
+  - Donation for entry
+  - Outdoor Games
+  - Fire & Ice Igloo
+  - Bands @ 6
+- Make Magazine Hand Cranked Chainsaw
+- Sam is accruing toy-making materials
+  - VOlunteer opportunity.
 
-- ToyMaking Volunteering event 
-  - Late March
-  - Date TBD
+
+
+
+
+
+
+
+
+
+ 
+
+
+
