@@ -1,15 +1,11 @@
-Attendance
-==========
-- Phil S
-- Dmitriy V
-- Jeff C
-- Thomas S
+Roll Call
+=========
+Phil S, Dmitriy V, Jeff C, Thomas S
 
 Updates
 =======
 - Jessica Fong's Membership Status - Phil has to meet up with her mid Feb
-- Empty Board Positions
-  - Public Relations is still open
+- Public Relations position is still open
 - ZenDesk - May problem
 - No updates on Wiki/Github/Google Drive/Shared folders, etc.
 
@@ -28,6 +24,5 @@ Potpourri
       - Need to get monitors for gaming PC as well - this may be a general members issue
       - May need to get outside help for this
  - Party
-
-Robot riot in two weeks
+- Robot riot in two weeks
       
