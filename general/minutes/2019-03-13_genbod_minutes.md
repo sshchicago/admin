@@ -2,7 +2,7 @@ Roll Call
 =========
 Members: Jeff C, Phil S, Shawn C, Dmitriy V
 
-New Faces: Scott, Carolyn (?), Thomas, Chris, Avia, Lex, Dean
+New Faces: Scott, Carolyn (?), Thomas, Chris, Avia, Lex, Dean, Jonathan
 
 Board and Officers
 ==================
@@ -40,5 +40,5 @@ Projects
 Potpourri
 =========
 - Lemons EV
-  - Like lemons, but electric
+  - Like 24 Hours of Lemons, but electric
   - Money prize
