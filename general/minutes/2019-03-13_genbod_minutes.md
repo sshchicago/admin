@@ -1,6 +1,7 @@
 Roll Call
 =========
 Members: Jeff C, Phil S, Shawn C, Dmitriy V
+
 New Faces: Scott, Carolyn (?), Thomas, Chris, Avia, Lex, Dean
 
 Board and Officers
