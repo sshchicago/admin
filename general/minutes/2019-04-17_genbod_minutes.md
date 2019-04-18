@@ -1,6 +1,7 @@
 Roll Call
 =========
 Members: Jeff C, Dmitriy V, Andrew E, Phil S, Tyler T, Becca W, Erin S
+
 Guests: Gwenn, Ben, Natalia
 
 Board and Officers
