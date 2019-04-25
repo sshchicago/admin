@@ -6,8 +6,6 @@ Roll Call
 
 Board and Officers
 ==================
-- Sponsorship (Mike G)
-  - No update
 - Public Relations (Becca W)
   - Met with Maya of Chicago Mobile Makers last week
   - Meeting with Chicago Tool Library next week
