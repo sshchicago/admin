@@ -24,6 +24,7 @@ Board and Officers
   - Front Room (Phil S)
     - Try to keep the place clean
     - We should get trash cans with lids
+    
 Events
 ======
 - Hack the Attack this weekend - Sat and Sun
