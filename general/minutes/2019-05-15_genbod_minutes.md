@@ -23,6 +23,7 @@ Board and Officers
     - Vinyl cutter works
   - Front Room (Phil S)
     - Be cognizant of recycling
+    
 Events
 ======
 - Hack the Attack this weekend - Sat and Sun
