@@ -7,30 +7,25 @@ Updates
 - Wiki/Github/Google Drive/Shared folders, etc.
   - Dmitriy doing a deep dive on bylaws in preparation of moving to 1 membership tier
 - Public Relations
-  - Sept 22nd - Water thing with Chicago Mobile Makers - planning started
-  - We got into Chicago Magazine! Thanks Becca!
-  - Mini Maker Faire Southside Edition
-    - People were impressed with Jeff's backdrop
+  - Becca met with Sara from TechGirlz on Friday
+    - Trying to do a bi-monthly thing here at the space starting in late September here at SSH:Chicago
+    - Teachers/assistants are young adults, sometimes 16-18 year olds
+    - Signed waivers
+    - She does all the promotional material
+  - Sept 22 - Water Run with Chicago Mobile Makers and Chicago Tool Library
     
 - Donations
-  - Mike reached out to DeWalt in June, maybe we'll hear back from them soon
-  - $0.57 From Humble Bundle 
+  - Contacted Hakko - stay tuned
 - Financial
-  - Fiscal year just started!
-  - $750 in our administrative budget - some room for new ideas (brocheures, etc)
-  - $1,300 available for projects
-  - Dmitriy exhausted the supply budget for last year 
-  Insurance is getting taken care of
+  - Filed the 990-N
+  - Filled AG 990-IL - to be signed and sent
+
 - Tech Updates
   - No Updates
+  
+ - Bylaws
+  - completed discussion - to be sent to the membership for review
  
 Potpourri
 =========
-  - More artsy activities?
-    - Clay night?'
-    - Water colour and wine night?
-    - Better Potpourri? 300 seconds of fame?
-  - Power wheels and generally more collaborative/competitive with other Makerspaces
-  - Generate more content?
-    
-    
+- Jeff bought lawn furniture
