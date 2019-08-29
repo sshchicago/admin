@@ -1,6 +1,6 @@
 Roll Call
 =========
-**Members:** Phil S, Erin S, Andrew E, Tyler T, Tom M, Jeff C, Sam M
+**Members:** Phil S, Erin S, Andrew E, Tyler T, Tom M, Jeff C, Sam M, Dmitriy V
 
 **Visitors:** Matt, Mark, Pat, Chris, Quinn, Andrew, Audie (?), Jacob, Tim, Howard, Victor
 
