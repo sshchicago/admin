@@ -55,9 +55,9 @@ Projects
 Motions
 =======
 - $500 extra to spend on back yard
- - 18 YES 1 NO 2 ABSTAIN - MOTION PASSES
+  - 18 YES 1 NO 2 ABSTAIN - MOTION PASSES
 - Form an $1200 annual budget for public relations
- - 18 YES 3 ABSTAIN - MOTION PASSES
+  - 18 YES 3 ABSTAIN - MOTION PASSES
 - $1200 to field a space sponsored Power Wheels Racing team
   - 4 YES 11 NO 6 ABSTAIN - MOTION FAILS
 
