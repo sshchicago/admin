@@ -24,7 +24,7 @@ Board and Officers
 - Sponsorship (Dmitriy V)
   - ~$7,700 of soldering tools being donated by Hakko USA
     - They have right of first refusal for future soldering tool donations
-    - 
+    - Consumables such as tips and filters not included, have to make a proposal to buy those ourselves
   
 - Area Reports
   - Back Room (Dmitriy V)
