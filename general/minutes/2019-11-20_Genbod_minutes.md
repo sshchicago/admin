@@ -2,7 +2,7 @@ Roll Call
 =========
 **Members:** Andrew, Erik, Dmitriy, Jeff, Erin
 
-**Visitors:** Corwyn, Danielle, Kris, Jeremiah, Jamie, Kumarin
+**Visitors:** Corwyn, Danielle, Kris, Jeremiah, Jamie, Kumaran
 
 Board and Officers
 ==================
