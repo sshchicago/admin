@@ -30,6 +30,9 @@ Open Items
 ==========
 - Digital Asset Clean-up (wiki, Github, Google Drive, etc)
 - Responded to outstanding Freshdesk tickets
+- Front room improvements
+  - Becca, Dmitriy and Paul met
+  - Talked about starting with windows and the wall underneath them
   
 Potpourri
 =========
