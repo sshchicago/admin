@@ -1,8 +1,8 @@
 Roll Call
 =========
-**Members**: Jeff C, Shawn C, Ryan A, Mark C, Dmitriy V
+**Members**: Jeff C, Shawn C, Ryan A, Mark C, Dmitriy V, Erin S, Erik L
 
-**Visitors:** None
+**Visitors:** Andrew
 
 Board and Officers
 ==================
@@ -54,3 +54,4 @@ Potpourri
 - New vinyl cutter? - Dmitriy
   - More discussion has been had on the mailing list
   - We think we will do a proposal for the Titan of medium size
+- Loud noises about Windows Active Directory
