@@ -14,8 +14,10 @@ Board and Officers
   - Maker Summit (3/9)
     - 5:30-7
     - Becca, Dmitriy and Phil are likely going
-  - CHIRP Record Fair and Chicago MakerFest (5/2)
+  - CHIRP Record Fair (5/2)
     - We officially declined due to lack of interest and conflict with other event
+  -  Chicago MakerFest (5/2)
+    - Planning on attending
 - Treasurer (Dmitriy V)
   - No updates
 - Area Reports
