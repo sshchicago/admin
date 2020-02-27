@@ -16,7 +16,7 @@ Board and Officers
     - Becca, Dmitriy and Phil are likely going
   - CHIRP Record Fair (5/2)
     - We officially declined due to lack of interest and conflict with other event
-  -  Chicago MakerFest (5/2)
+  - Chicago MakerFest (5/2)
     - Planning on attending
 - Treasurer (Dmitriy V)
   - No updates
