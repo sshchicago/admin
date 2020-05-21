@@ -64,6 +64,8 @@ Potpourri
 - https://www.thingiverse.com/thing:4231792 - Dan Meyer reccomended!
   - put a cloth barrier between furnace filters and your face.
   - https://gitlab.cba.mit.edu/pub/coronavirus/tracking
+- https://www.nationalbalsa.com/ 
+  - Good wood source!
 - Dmitriy's beard 
 - Possibly a spindle sander
 - Possibly voting on buying an airbrush system, possibly soon
