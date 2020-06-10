@@ -21,8 +21,8 @@ Officer Reports
     - Butterfly and bee mix
     - Fight the power and the mugwart with cardboard
     - weedwacker weekend?
-    possibly buy a grill (non shitty)
-    
+    - possibly buy a grill (non shitty)
+    - Please no toxic shit in the compost
 Open Items
 ==========
 - Digital Asset Clean-up (wiki, Github, Google Drive, etc)
