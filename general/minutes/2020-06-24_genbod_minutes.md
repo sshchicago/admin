@@ -1,6 +1,6 @@
 Roll Call
 =========
-**Virtual Members**: Jeff, Tim, Erik, Ryan, Phill
+**Virtual Members**: Jeff, Tim, Erik, Ryan, Phill, Chelsea, Dan
 **In-Building, but Virtual Anyways Members**:  Andrew, Dmitriy
 
 **Visitors:** None
