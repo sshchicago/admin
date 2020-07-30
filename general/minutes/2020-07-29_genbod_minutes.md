@@ -49,6 +49,7 @@ Meetings and Events
 - Music Theory last saturday from 1:00 to 3:00.
   - looked good. Sounded good too
   - More music in the future!
+
 Voting
 ======
 
