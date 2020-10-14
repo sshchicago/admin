@@ -1,14 +1,9 @@
 Roll Call
 =========
-Andrew, Tomo,  Dmitriy, jeff
+Andrew, Tomo, Dmitriy, jeff
   
 Officer Reports
 ===============
-- the Unspeakable Subject
-  - need drive bays for the second Unspeakable Object
-  - Might hack together a battery for a new battery
-  - 
- - Public Relations  
   - September book club / drinkstravaganza IRL 9/24 
 - Treasurer
   - Rent update
@@ -31,11 +26,8 @@ Open Items
   - after server stuff/ heat death of universe
 
 - Front room improvements
- - air conditioner up!
  - chunkify the proposal to do incrementally
-  - east wall first
-   - drop leaf tables?
-   - S&L couch/chairs will be burned
+  - S&L couch/chairs will be burned
 - Elections
   - Nominations
     - Everyone but Tomo and John are returning
