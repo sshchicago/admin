@@ -1,15 +1,14 @@
 Roll Call
 =========
-Andrew, Phill, Dmitriy, jeff, Fire, Becca
+Andrew, Phill, Dmitriy, Jeff, Fire, Becca, Tomo
   
 Officer Reports
 ===============
 - the Unspeakable Subject
-  - need drive bays for the second Unspeakable Object
-  - Might hack together a battery for a new battery
-  - 
- - Public Relations  
-  - September book club / drinkstravaganza IRL 9/24 
+  - AC has been installed, Thanks Agocs!
+    - dual hose!
+   - Possible donation of new Unspeakable Objects
+    - hard drives not guaranteed.
 - Treasurer
   - Rent update
     - no update
@@ -18,15 +17,18 @@ Officer Reports
   - Exists.
   - Tractors would help.
   - As would working in non covid-compliant groups, sadly.
-
-  
-  
+  - take over the back yard? 
+    -destroy all hugelkulturs!e
+- Members
+  - Kinda holding steady
+  - Shawn is sponsoring Sara's membership
   
 Open Items
 ==========
-- Bounties?
-  - Paid?
-  
+- Project bounties
+  - Jeff is doing the compressor
+  - a group throwing out of things?
+    - the 24th?
 - Digital Asset Clean-up (wiki, Github, Google Drive, etc)
   - after server stuff/ heat death of universe
 
@@ -39,7 +41,8 @@ Open Items
 - Elections
   - Nominations
     - Everyone but Tomo and John are returning
-    - Mark at large?
+    - Ziggo / Chomp at large!
     - 
 Potpourri
 =========
+Gearling!
