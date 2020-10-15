@@ -4,7 +4,7 @@ Roll Call
 
 **On Video Call**:  Shawn C, Dan M, Phill S, Russell F, Ryan A
 
-**Guests**: Mike, Melissa
+**Guests**: Mike, Melissa, Mallory
 
 Board and Officers
 ==================
