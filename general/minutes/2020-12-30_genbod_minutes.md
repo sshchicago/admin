@@ -18,9 +18,9 @@
 ### Rapid Prototyping (Phill S)
 - Anycubic Resin Printer
   - Waiting for remaining components (which may have arrived today) and to set it up
-  - Members will be responisible for their own consumables (resin and rubbing alcohol)
+  - Members will be responsible  for their own consumables (resin and rubbing alcohol)
   - Gloves are provided by the space
-  - Phill will test it out and come up with certificaion process
+  - Phill will test it out and come up with certification process
 ### Back Room / Woodshop (Dmitriy V and Chris W)
 - Dust collection project (still!) ongoing
 - Electrical cord and air hose reel installation
@@ -51,4 +51,4 @@
 - No motions or votes
 
 # Potpourri
-- No Potpurri
+- No Potpourri
