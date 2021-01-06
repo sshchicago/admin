@@ -43,13 +43,11 @@
 - No Updates
 
 # Maintenance Log
-- Review/update log on whiteboard!
-  
-# Projects
-- No Projects
+- Review/update log on whiteboard
+- Make note of major changes and needs here
 
-# Motions and Votes
-- No motions or votes
+# Motions and Voting
+- No motions or voting
 
 # Potpourri
 - No Potpourri
