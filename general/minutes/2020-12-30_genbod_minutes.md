@@ -1,7 +1,7 @@
 # Roll Call
-**In Person**:   Dmitriy V, Erin S, Chelsea C, Vivian A (Guest)
-
-**On Video Call**:  Jeff C, Erik L, Phill S
+**In Person**: Dmitriy V, Erin S, Chelsea C
+**On Video Call**: Jeff C, Erik L, Phill S
+**Guests**: Vivian
 
 # Public Relations (Becca W)
 - Always seeking more social media content - please send photos/video of stuff you are working on!
