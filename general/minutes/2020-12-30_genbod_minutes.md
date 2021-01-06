@@ -35,12 +35,12 @@
 - Tabled until Spring
 
 # Meetings, Events and Interest Groups
-- Books Interest Group (Becca W)
-  - How to Bake Pi by Eugenia Cheng - March 14, 2021
-- HAM Radio Interest Group (Phill S)
-  - No Updates
-- Whoop Squad (Phill S)
-  - No Updates
+## Books Interest Group (Becca W)
+- How to Bake Pi by Eugenia Cheng - March 14, 2021
+## HAM Radio Interest Group (Phill S)
+- No Updates
+## Whoop Squad (Phill S)
+- No Updates
 
 # Maintenance Log
 - Review/update log on whiteboard!
