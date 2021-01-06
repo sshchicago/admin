@@ -3,25 +3,22 @@
 
 **On Video Call**:  Jeff C, Erik L, Phill S
 
-
-# Board and Officers
-
-## Public Relations (Becca W)
+# Public Relations (Becca W)
 - Always seeking more social media content - please send photos/video of stuff you are working on!
 
-## Treasurer (Dmitriy V)
+# Treasurer (Dmitriy V)
 - Monthly fiscal update this weekend
 
-## Area Reports
-### Front Room (Dmitriy V)
+# Area Reports
+## Front Room (Dmitriy V)
 - Working on front room redesign proposal
-### Rapid Prototyping (Phill S)
+## Rapid Prototyping (Phill S)
 - Anycubic Resin Printer
   - Waiting for remaining components (which may have arrived today) and to set it up
   - Members will be responsible  for their own consumables (resin and rubbing alcohol)
   - Gloves are provided by the space
   - Phill will test it out and come up with certification process
-### Back Room / Woodshop (Dmitriy V and Chris W)
+## Back Room / Woodshop (Dmitriy V and Chris W)
 - Dust collection project (still!) ongoing
 - Electrical cord and air hose reel installation
   - Still need to be installed
@@ -32,7 +29,7 @@
 - New Drill Press
   - Ordered but shipping delayed until Late January 2021
   - Other two components arrived and are tucked away in back room
-### Back Yard (Jeff C)
+## Back Yard (Jeff C)
 - Tabled until Spring
 
 # Meetings, Events and Interest Groups
@@ -43,6 +40,8 @@
 - Whoop Squad (Phill S)
   - No Updates
 
+# Maintenance Log
+- Review/update log on whiteboard!
   
 # Projects
 - No Projects
