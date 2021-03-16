@@ -17,7 +17,7 @@ Officer Reports
     - the author liked out tweet!
     - get it signed!
     - she ain't coming.
-   - Our 9th Birthday March 7
+  - Our 9th Birthday March 7
     - dmitriy mentioned putting out a cake in bubbly for everyone to eat! 
   - with summer ahead, do we want to do any casual mixers or happy hours on the porch?
   - ssh social media is finally caught up with posts, i will resume with happy hour posts.
