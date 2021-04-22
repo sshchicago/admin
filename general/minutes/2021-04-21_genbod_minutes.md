@@ -52,3 +52,4 @@
 - Internet, What's up with it?
   - its down, clearly
   - Should we get our own?
+- Shawn is playing Facebook Marketplace Guacamole
