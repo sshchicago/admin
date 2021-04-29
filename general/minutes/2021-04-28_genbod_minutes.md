@@ -1,5 +1,5 @@
 # Roll Call
-**In Person**: Erin, Ziggo, Andrew E, Dmitriy, Chris STL, Andrew L, Marissa, Erik
+**In Person**: Erin, Ziggo, Andrew E, Dmitriy, Andrew L, Marissa, Erik
 
 **Online?:**:
 
@@ -15,7 +15,7 @@
   - Investigating with Christina Pei
   - May get a stipend to do something
 # Treasurer (Dmitriy V)
-- Need to order supplies: trash bags, wipes, what else do we need?
+- Need to order supplies: trash bags, wipes, what else do we need? whiteboard liquid
 # Area Reports
 ## Front Room (Dmitriy V)
 - No (real) updates
@@ -27,7 +27,7 @@
   - no progress since last week
 - New drill press
   - Please wait on using it - certification incoming
-- Clean-up scheduled for may 23
+- Clean-up scheduled for May 23
 ## Back Yard (Jeff C)
 - 2 of 4 raised plots are up for grabs
 # Meetings, Events and Interest Groups
@@ -38,6 +38,6 @@
 - Make note of major changes and needs here
 # Motions and Voting
 - Proposal to spend $3000 on a Jet 14 x 40 lathe and accessories
-  - 
+  - 11 YEA, 0 NO, 0 ABSTAIN - motion passes
 # Potpourri
 - Internet?
