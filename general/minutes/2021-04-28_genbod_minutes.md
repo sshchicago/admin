@@ -1,7 +1,7 @@
 # Roll Call
-**In Person**: Erin, Ziggo, Andrew E, Dmitriy, Andrew L, Marissa, Erik
+**In Person:** Erin, Ziggo, Andrew E, Dmitriy, Andrew L, Marissa, Erik
 
-**Online?:**:
+**Online?:** Jeff
 
 # Public Relations (Becca W)
 - Always seeking more social media content
@@ -40,4 +40,24 @@
 - Proposal to spend $3000 on a Jet 14 x 40 lathe and accessories
   - 11 YEA, 0 NO, 0 ABSTAIN - motion passes
 # Potpourri
-- Internet?
+- Getting our own internet service
+  - Not a lot of great options, unfortunately
+  - AT&T Fiber
+    - Dedicated line service only (because they have to build out the infrastructure to us)
+    - No build out or installation fee if within 1000FT of already existing fiber (we probably are)
+    - $882/mo for 100/100
+    - $1843/mo for gig/gig
+  - Google Webpass
+    - Point-to-point wireless (just like 12Global) backed by fiber, so could degrate in bad weather
+    - $3000 installation fee (can be split over 12 months)
+    - $100 for 250/250
+    - $250 for gig/gig
+  - Comcast Business
+    - The building had them before and it was prone to outages
+    - I mean, come on, it's Comcast
+    - $70 (12 months, then $85) for 35/7, 2 year agreement
+    - $190 (12 months) for 200/30, 1 year agreement
+    - $110 (12 months, then $130) for 200/20, 2 year agreement
+    - $260 (12 months) for gig/35, 1 year agreement
+    - $100 (12 months, then $200) for gig/35, 2 year agreement, includes phone
+      - Probably the "best" option
