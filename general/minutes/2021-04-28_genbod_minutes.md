@@ -48,7 +48,7 @@
     - $882/mo for 100/100
     - $1843/mo for gig/gig
   - Google Webpass
-    - Point-to-point wireless (just like 12Global) backed by fiber, so could degrate in bad weather
+    - Point-to-point wireless (just like 12Global) backed by fiber, so could degrade in bad weather
     - $3000 installation fee (can be split over 12 months)
     - $100 for 250/250
     - $250 for gig/gig
