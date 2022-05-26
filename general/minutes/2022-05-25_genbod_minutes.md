@@ -37,9 +37,9 @@
 - Review/update log on whiteboard
 # Motions and Voting
 - cart
-  - 10 yea
+  - 9 yea
   - 0 nay
-  - 0 meh
+  - 1 meh
   - Motion passes
 
 # Potpourri
