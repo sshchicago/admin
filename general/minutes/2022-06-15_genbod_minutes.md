@@ -1,5 +1,5 @@
 # Roll Call
-**In Person:** Jeff C, Dmitriy V, Paul O, erik, chris, erin
+**In Person:** Jeff C, Dmitriy V, Paul O, Erik L, Chris M, Erin S
 
 **Guests:** Aaron
 
