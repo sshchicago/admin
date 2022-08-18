@@ -1,7 +1,10 @@
 # Roll Call
+
 **In Person:** Jeff C, Erin S, Ziggo G, Tim M, Paul O
+
 **Guests:** Maciej M
-**Online:** 
+
+**Online:** None
 
 - Treasurer
   - $4,655.11 in available funds
