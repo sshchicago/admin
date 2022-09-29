@@ -40,6 +40,8 @@
 # Motions and Voting
 - Resin outdoor storage shed proposal $600(?)
   - Postponed until next week
+- Elections (10/12)
+  - Nominations now open
 # Potpourri
 - Dealing with the large donation
   - Serval FDM and resin printer donated
