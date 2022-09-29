@@ -6,24 +6,27 @@
 
 **Online:** Adam, Dumpster Fire, Erik
 
-- Treasurer
-  - A little less than $5,740.26 - Dmitriy V
-- Public Relations - Tim M
+# Status Reports
+
+- Treasurer (Dmitriy V)
+  - Just over $5,000 available for proposals
+  - Next financial update 10/1 (Saturday)
+- Public Relations (Tim M)
   - Got a lot of donations and need to go through them
-- Front Room
-  - Full of things
-- RPA
-  - Also full of things
-- Back Room
+- Front Room (Dmitriy V)
+  - It's a mess again due to donations
+- RPA (Phill S)
+  - Also a mess
+- Back Room (Dmitriy V)
   - No updates
-- Back Yard
-  - On fire (parts of it)
-  - No idea what neighbor is up to right now
+- Back Yard (Jeff C)
+  - On fire (contained parts of it)
+  - No idea what neighbor is up to right now, probably not doing anything until spring
   - need to whack some weeds
 # Meetings, Events and Interest Groups
 - Hackerspace Clean-up Days 
   - next clean-up... now??
-  - Mayber after/before block party
+  - Mayber after/before block party on Saturday
 - Third Friday Art Night!
   - October 21
   - Now hosted by Victor!
@@ -32,9 +35,9 @@
   - outdoors!
 - Open House Chicago!
   - Oct 15th, 16th!
-## Books Interest Group (Becca W)
-- October 8th
-  - The Genesis Machine - Amy Webb
+- Books Interest Group (Becca W)
+  - October 8th
+  - The Genesis Machine by Amy Webb
 # Maintenance Log
 - Review/update log on whiteboard
 # Motions and Voting
@@ -44,7 +47,7 @@
   - Nominations now open
 # Potpourri
 - Dealing with the large donation
-  - Serval FDM and resin printer donated
+  - Serval FDM and resin printesr donated
   - Tim suggests a second tier to the second table in the RPA
   - Should the TronXY be retired (considering we have more printers)?
   - Chop up the the laser printer table?
@@ -54,4 +57,4 @@
   - Proposal for proper, lockable, uniform lockers in the near future
 - Electronics bench
   - Also needs to be rebuilt
-  - For now it will just be lightened  
+  - For now it will just be lightened to be less of a hazard  
