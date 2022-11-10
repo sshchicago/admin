@@ -2,7 +2,7 @@
 
 **In Person:**  Erin S, Dima V, Andrew, Ani, Jeff, Adam, Samantha
 
-**Guests:** FRANKIE!!!!
+**Guests:** 
 
 **Online:** Tim, Russell, Erik
 
@@ -10,14 +10,11 @@
 
 - Treasurer (Dmitriy V)
   - less than $4,664.18 available for proposals
-  - plus 20 insurance dollars
-  - thanks Microsoft for paying for Erin's time
+  - checking in on comsumables and first aid
 - Public Relations (Tim M)
-  - blorg
-  - maybe a costco run tomorrow for the party
-  - there is a party friday
+  - wera email
 - Front Room (Dmitriy V)
-  - It's acceptably messy, could use a sweep
+  - SO MUCH GODDAMN CANDY
 - RPA (Phill S)
   - Cleaner!
   - too many printers
@@ -27,6 +24,7 @@
 - Back Yard (Jeff C)
   - No idea what neighbor is up to right now, probably not doing anything until spring
   - still shedless
+    - bikesheding, though
 # Meetings, Events and Interest Groups
 - Third Friday Art Night!
   - 11/18 
@@ -42,7 +40,4 @@
   - Nah
 # Potpourri
 - let's kick the electronics bench's ass!
-- Dog!
-  - I got to pet a dog!
 - door seal
-- let's pirate some geese!
