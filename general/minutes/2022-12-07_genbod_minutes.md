@@ -1,24 +1,24 @@
 # Roll Call
 
-**In Person:**  Erin S, Dmitriy V, Ziggo G, Tim M, Jeff, Andrew
+**In Person:**  Erin S, Dmitriy V, Jeff, Andrew
 
-**Guests:** 
+**Guests:** Brady
 
-**Online:** Erik
+**Online:** Russell
 
 # Status Reports
 - Treasurer (Dmitriy V)
-  - claims he will have updates tomorrow
+  - claims he had updates last week
 - Public Relations (Tim M)
   - talked to wera
 - Front Room (Dmitriy V)
   - Could use a tidy soon
 - RPA (Phill S)
-  - do not leave the hotplate on?
+  - 
 - Back Room (Dmitriy V)
   - No Updates
 - Back Yard (Jeff C)
-  - Shed picked up and assembled, just needs a lock
+  - we have shed
   - trying to sell a ATV
 # Meetings, Events and Interest Groups
 - Third Friday Art Night
@@ -31,6 +31,10 @@
 # Maintenance Log
 - Review/update log on whiteboard
 # Motions and Voting
-- None
+- sanders that orbit, randomly
+  - DCW 2108
+  - 70 human dollars
+- Wet tile saw?
+  - 110 volts, 110 dollars!
 # Potpourri
-- Dmitriy's meat looks fantastic today (and well dressed!)
+- Dmitriy, meatless
