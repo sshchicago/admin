@@ -12,7 +12,9 @@
   - 
 - Public Relations (Tim M)
   - CPL's Maker lab 10th aniversary
+    - july 8th
   - lost our old felder rep
+    - 
 - Front Room (Lee)
   - probably could be cleaned
 - RPA (Phill S)
