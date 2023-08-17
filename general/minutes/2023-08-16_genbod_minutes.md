@@ -1,6 +1,7 @@
 # Roll Call
 
 **In Person:** Jeff C, Adam K, Erin S, Ziggo G, Rae S, Ben M, Erik L, Kevin J
+
 **Guests:** none
 
 **Online:** none
