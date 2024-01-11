@@ -1,72 +1,57 @@
-1/3/24
-=========
-Roll Call
-=========
+2024-01-10
 
+# Roll Call
 
+In Person: Jeff C, Andrew E, Adam K, Ziggo G, Dmitriy V, Karl B
+Remote: Will C, Andrew S, Erin S
 
-=============
-Status Reports
-=============
+# Status Reports
 
-Treasurer (Dmitriy V)
-- No updates
-- Fire extinguisher
-Public Relations (Ziggo)
-- No updates
-- First sewing class on the 20th is fully booked, other one still has openings
-Front Room (Ben)
-- Mouse still at large
-RPA (Phill S)
-- Laser cutter cleaning after meeting
-- Phil getting quote for shelving
-Back Room (Will C)
-- Planer Upate
--   Will flipped spockets and reinstalled bushing
--   Seems to work well
--   Do we want to do anymore testing with the thermal imaging camera
-- New oscillating multitool in the back room
-Back Yard (Jeff C)
-Beginning to look for a backyard area captain! (Area captains just take ownership of space, leads projects, and can determine some budget things. ask jeff for more details)
-Meetings, Events and Interest Groups
+- **Treasurer (Dmitriy V)**
+  - Need to get fire extinguishers inspected
+  - Need to reorder some first aid supplies
+- **Public Relations (Ziggo C)**
+  - First sewing class (January 20th) is fully booked, other one (Feb 6) still has openings
+- **Front Room (Ben)**
+  - Mouse still at large - keep an eye out for it
+- **RPA (Phill S)**
+  - Laser cutter cleaning after meeting
+  - Phil getting quote for workbench shelving
+- **Back Room (Will C)**
+  - Planer Upate
+    - Will flipped spockets and reinstalled bushing
+    - Seems to work well
+    - Do we want to do anymore testing with the thermal imaging camera
+  - New oscillating multitool in the back room
+- **Back Yard (Jeff C)**
+  - Seeing new back room area captain
 
-======
-Events
-======
+# Meetings, Events and Interest Groups
 
-January 19th - Art night
-7pm-??
-Jan 20th Sewing Class pt 1 (before holiday party)
-February 6th Swewing Class
-Jan 20th - holiday party
-RSVP plz
-Gift exchange!
-Start thinking of where we should order food from!
+- **3rd Friday Art Night (January 20th)**
+  - 7pm until whenever
+  - Perfect for last minute holiday party gift making
+- **Sewing Classes**
+  - Class 1 January 20th (before Holiday Party) - FULLY BOOKED
+  - Class 2 Feb 6 - STILL OPEN
+- **Holiday Party (January 20th)**
+  - Please RSVP for the gift exchange - https://docs.google.com/forms/d/e/1FAIpQLSf3tSf-4DfPoH8ZbnVdyhmPN5zSHCp0hDqKoAjCvEpzgRE80Q/viewform
+  - Seeking input for where to get food
 
-=============
-Interest Groups
-=============
-Solar Eclipse Baloon Team
-after the meeting.
-Launch Location is secured.
-Still need to find lodging and ground control station.
-We need more Interest groups!! Fun for social interaction between members and also gaining new skills as individuals and a community 🙂
+# Interest Groups
 
+- **Solar Eclipse Baloon Team**
+  - Team meeting after genbod
+  - Launch location secure
+  - Still need to find lodging and ground control station.
 
-=========
-Proposals
-=========
+# Proposals
 
-Phil $350 - dowel jig
-- what it do? it was explained
-- we also have have a bisquit jointer tool
+- **$350 for Dowel Jig Kit - Phil S**
+  - Phil explains what these jigs are for
+  - We also have have a biscuit joiner
 
-=========
-Potpourri
-=========
+# Potpourri
+
 - Baileys tastes terrible
 - Journeyman makes a good coffee liqueur
-
-===========
-Action Items
-===========
