@@ -1,4 +1,5 @@
 # Roll Call
+
 In Person
 
 - one
@@ -32,4 +33,28 @@ Remote
 - Back Yard (Jeff C)
   - Still seeking new captain for area
 
-#Meetings, Events and Interest Groups
+# Events and Interest Groups
+
+## Events
+
+- Third Friday Art Night - February 16
+- Board Game Day - February 17
+  - Time and details TBD
+  - A Phil-Andrew-Rae collab
+- Hackerspace's 12th Birthday Party - March 2
+  - Details TBD
+- Sewing Class - March 3?
+
+## Interest Groups
+
+- Solar Eclipse Baloon Team
+- Ham Radio Interest Group
+
+# Business
+
+- Proposal to Create Discretionary Budgets for Area Captains
+  - Voting delayed to next week as it is being updated
+  - Now revised to $250 per area per fiscal year and now including the back yard in scope - $1000 total
+  - Revision to guidelines separating this from Supply and Maintenance funds to be developed
+
+# Potpurri and Action Items
