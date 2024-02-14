@@ -52,7 +52,7 @@ Remote
 
 # Business
 
-- Proposal to Create Discretionary Budgets for Area Captains
+- Proposal to Create Discretionary Budgets for Area Captains (Jeff C)
   - Voting delayed to next week as it is being updated
   - Now revised to $250 per area per fiscal year and now including the back yard in scope - $1000 total
   - Revision to guidelines separating this from Supply and Maintenance funds to be developed
