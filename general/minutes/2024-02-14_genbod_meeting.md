@@ -29,7 +29,7 @@ Remote
       - New laser would be bigger/better
   - Replacement ribbon cable for Artillery X1 ordered and deliveried - Andrew to install?
 - Back Room (Will C)
-  - No updates
+  - Reminder that projects need to be tagged with parking pass or they may be disposed of
 - Back Yard (Jeff C)
   - Still seeking new captain for area
 
