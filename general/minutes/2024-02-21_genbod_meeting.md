@@ -64,10 +64,10 @@ Remote
 # Business
 
 - Proposal to Increase NEBP Cost Reimbursement Fund to $5000 (Jeff C)
-  - 15 YES, 0 NO, 0 ABSTAIN
+  - 16 YES, 0 NO, 0 ABSTAIN
   - Motion passes
 - Proposal to Create Discretionary Budgets for Area Captains (Jeff C)
-  - 14 YES, 0 NO, 0 ABSTAIN
+  - 15 YES, 1 NO, 0 ABSTAIN
   - Motion passes
 - Proposal to Allocate $2500 to Resurrect the FSL Muse Laser Cutter (Phil S)
   - Questions this week, voting next week on February 28
