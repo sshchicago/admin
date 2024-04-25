@@ -44,8 +44,9 @@
   - New Business
     - none
 # Potpurri and Action Items
-  - Adam is making a quick and tiny new public website (adam)
+  - Adam is making a quick and tiny new public website (Adam)
     - nothing fancy, soliciting input
   - We got a paper letter about the eclipse balloon launch 
 
 # Next week action items
+  - None
