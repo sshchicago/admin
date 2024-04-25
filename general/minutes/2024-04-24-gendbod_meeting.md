@@ -18,6 +18,8 @@
     - Went well, apparently
   - Board Game Saturday - April 27
     - Also went well
+  - Music Theory Workshop - June 15 - Hosted by Phil
+
 - Front Room (Ben M)
   - The new AVR remote is fragile - please be careful with it, it already got damaged
 - Rapid Prototyping Area (???)
