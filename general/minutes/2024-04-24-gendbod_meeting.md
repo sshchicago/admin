@@ -12,7 +12,7 @@
   - Still need to with with Jeff C submit NEBP costs
 - Public Relations (Ziggo G)
   - Chicago Makes PRS DIY Faire - May 4 (next weekend)
-   - Sign up to volunuteer!
+   - Sign up to volunteer!
    - Openers: meet here 8AM
   - 3rd Friday Art night - April 26
     - Went well, apparently
@@ -43,7 +43,7 @@
     - $250 for after-party - tabled to next week?
   - New Business
     - none
-# Potpurri and Action Items
+# Potpourri and Action Items
   - Adam is making a quick and tiny new public website (Adam)
     - nothing fancy, soliciting input
   - We got a paper letter about the eclipse balloon launch 
