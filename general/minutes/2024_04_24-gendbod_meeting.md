@@ -1,83 +1,51 @@
 # Roll Call
 
-- Dmitriy Andrew Andrew Tim Ziggo Jeff Shawn Erik Adam
-
+- In Person: Dmitriy V, Andrew E, Andrew S, Tim M, Ziggo G, Jeff C, Adam K
+- Online: Erin S, Will C, Rae S
 
 # Last Week Action Items
-  - 
+  - None?
 
 # Director and Area Reports
 
 - Treasurer (Dmitriy V)
-  - Jeff and Dmitriy need to meet soon
+  - Still need to with with Jeff C submit NEBP costs
 - Public Relations (Ziggo G)
-  - 3rd Friday Art night! (Ziggo is not there, Andrew will) 6-?
-  - Board Game Saturday
+  - Chicago Makes PRS DIY Faire - May 4 (next weekend)
+   - Sign up to volunuteer!
+   - Openers: meet here 8AM
+  - 3rd Friday Art night - April 26
+    - Went well, apparently
+  - Board Game Saturday - April 27
+    - Also went well
 - Front Room (Ben M)
-  - Ziggo fixed Light pulling thing
-  - New AV reciever
-  - New Work Space
-  - Printer Moved
-- Rapid Prototyping Area (We still need a new captain)
-  - Laser Cutter working again!
-  - New Work Area back there
-  - Lets get spare computer monitor mounted to the wall near the work area to make useage of RPA easier
+  - The new AVR remote is fragile - please be careful with it, it already got damaged
+- Rapid Prototyping Area (???)
+  - Still seeking a new area captain
+  - Shawn will send note on email/discord about electronics bench items that couldn't be found
 - Back Room (Will)
-  - If you have been in the backroom over the weekend, and noticed the beeping, the beeping has now stopped.
-  - 
+  - Will lubricated the table saw raise/tilt mechanism - seems to have helped
+  - Please use parking tickets to mark your projects (they are next to the pencil sharpener)
 - Back Yard (Kalina G)
-  - Super Clean and Tidy
-  - Dug out a bunch of stuff from the sub-roof, water should be filling in the tank.
-  - Big thank you to all who attended
-  - Is there another work day happening soon?
+  - Work day this Saturday 11AM - 4PM
 
 # Interest Groups
-- Ham interest group
-  - Adam wants to build a portable HAM station (more info in the HAM interest group channel)
-- High Altitude Balloon 
-  - When the APRS is found, we are gonna send it to the company and get it replaced.
-  - Gonna keep doing fun new ideas with balloons! Keep up to date in the channel.
-- Electronics
-  - Electronics group will be on Mondays at 7:30
-- Power Racing
-  - Parts have been bought. Car coming along
-  - If we have any folks who are interested in vending, please send them to Moonie, or Rae, to get them into the fair.
-  - We need to get a new tent and get the one Jeff has.
-  - Ziggo has msgd people, andrew is suggusting the plant.
-  - Kevin (member-emeritus) may be coming thru and documenting. He may be willing to do video.
-  - Last year there was an afterparty at gearhead, if we do want to have an afterparty here it should start at 7:30. We don't have to commit to this cause it could be a long day.
+- High Altitude Balloon (Jeff C)
+  - If you are interested in HAB, come to the Chicago Makes Fair to see HAB in action
+- Electronics Group (Karl)
+  - Meeting happened!
+  - Electronics group is on Mondays at 7:30
+- Power Racing (Ben and Kalina)
+  - Progress is being made
 
 # Business
-  - Discussion
-    -
-  - Proposals
-    - SSHC sponsering PRS
-      - Vote:
-        - Yes: 12
-        - No : 0
-        - Abstain: 1
-        - The motion passes
-    - New ProposalS
-        - $250 for after-party
-          - Seconded (for discussion)
-          - Will we get new audience from this?
-          - Last year at gearhead there was NOTHING so no PRS budget from them. We want to spend money to make a great party like our anniversary party.
-          - If there is not enough people comitted to doing this in terms of manhours, it is gonna burn out members perhaps.
-          - PR budget only has ~$300 in it untill July.
-          - How as the party last year? It was decent
-          - We need material about us AND about the party to pass out.
+  - Old Business
+    - $250 for after-party - tabled to next week?
+  - New Business
+    - none
 # Potpurri and Action Items
-  - Kden Live
-    - Great all platform video software. You can use command line.
-  - Data processing for HAB stuff is online!!! hab.spectrumcat.com
-    - Ask member for password
-    - Feel free to download/copy. It can do cool stuff so play around!
-  - Ben will post all links in power racing channel
-  - Ben will make the proposal in discord and add sheet for logistics for maker fair
-
-  - Moonie said they are looking for bike racks for barriers.
-    - Have they asked Garunteed Rate Field for the barriers?
-    - Is nicole lee involved?
-  - They want to do like a post-mortum a week afterwards to plan next year.
+  - Adam is making a quick and tiny new public website (adam)
+    - nothing fancy, soliciting input
+  - We got a paper letter about the eclipse balloon launch 
 
 # Next week action items
