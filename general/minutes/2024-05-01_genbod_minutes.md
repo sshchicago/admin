@@ -15,7 +15,7 @@
   - Chicago Makes Fair Presented by PRS - May 4 (this weekend)
    - [Sign up](https://docs.google.com/spreadsheets/d/19ufa12qfK9ZLvyZAAxPTocyYx6-PTGw80yi1jIntNkE/edit?usp=sharing) to volunteer at our booth or afterparty
    - Tell friends and family to attend
-  - Music Theory Workshop - June 15 - Hosted by Phil
+- Music Theory Workshop - June 15 - Hosted by Phil
 
 - Front Room (Ben M)
   - None
