@@ -35,7 +35,7 @@
     - Old proposals
       - New PR Budget ($2700)
         - Yea: 14
-        - Nay: 0
+        - Nay: 1
         - Abstain: 2
         - The motion passes
     - New proposals
