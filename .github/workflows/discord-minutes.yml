@@ -33,4 +33,4 @@ jobs:
         uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          filename: ${{ steps.contents.outputs.added_files }}
+          filename: ${{ steps.changed-files.outputs.added_files }}
