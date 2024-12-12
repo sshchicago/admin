@@ -3,7 +3,7 @@ name: Discord Minutes
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - general/minutes/*.md
 
