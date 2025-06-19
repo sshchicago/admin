@@ -20,31 +20,27 @@
   - Air compressor - hour-run meter being installed now
 - Back Yard (Kalina)
   - No updates
+
 # Interest Groups
+
 - High Altitude Ballooning (HAB)
-  - 
-- Metal Working Group
-  - 
-# Business
   - No updates
+- Metal Working Group
+  - No updates
+
+# Business
+
+- No business
+
 # Events
-  - July 4th
-    - Meeting with PRS PS1!
-    - flyers NOW
-    - some people are signed up (seven? eight?)
-    - advertize, advertize, ADVERTIZE
-    - Invite more people to vend!
-    - logistics spreadsheet!
-    - tool library tables and tents!
-  - Board game day!
-    - June 14th 2PM
-  - News Night?
-    - Was good
-    - July 10th for the next one!
-  - MRRF
-    - Midwest reprap festival
-    - CARPOOL! 
-      - only for one day
-    - 21st and 22nd at the Elkhart county 4h fairegrounds
+
+- July 4th Block Party
+  - Met and touched base with PS1 PPRS team
+- Board Game Day - June 14th 2PM
+  - How did it go?
+- News Night - July 10
+- Midwest Rep Rap Fair MRRF (June 20-22, Goshen)
+  - Some members may carpool for one of the weekend days - inquire on discord
+
 # Potpourri 
-  - Jeff is trying to kill us all with sugar
+  - No potpurri
