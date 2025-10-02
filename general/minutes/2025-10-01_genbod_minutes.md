@@ -31,12 +31,23 @@
    - do it in chat
    - talk to us about joining and what it entails!
    - PRESIDENT - Andrew
+     - presides
    - VP - Shawn? Tyler
-   - PR - Kalina?
-   - SECRETARY - 
+      - Fields all emails
+   - Social Media Coordinator - Karl?
+     - Social Media Posts
+   - Events Coordinator - Kalina?
+      - Creates events 
+   - SECRETARY - ?
+     - notes
    - CTO - Adam
+     - touches computers
    - MEMBER AT LARGE - Ben
+     - answers member emails
+     - gives tours when present
+     - checks in with members
    - TREASURER - Dmitriy
+     - so much goddamn work
    - in two weeks, email SECRETARY@SSHCHICAGO.ORG
      - preferably before the meeting
 
