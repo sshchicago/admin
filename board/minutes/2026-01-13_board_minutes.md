@@ -30,5 +30,6 @@
 
 - Etc
   - Andrew might be building a 3D motorized sign, could be a nice group project. Andrew shouldn't have to pay for it himself.
+  - In general, we should be spending money on group projects that are good advertising
   - Recent Reddit post about SSH:C not being super friendly. We should work to change that narrative
   - Skylark interactive crafts at the bar! Tyler knows Ambria (Adam too lol). We should do this.
