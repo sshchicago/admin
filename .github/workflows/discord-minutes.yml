@@ -19,9 +19,13 @@ jobs:
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v46
+        with:
+          files: |
+            general/minutes/*.md
 
       - name: Get minutes
         id: contents
+        if: steps.changed-files.outputs.any_added == 'true'
         env:
           ADDED_FILES: ${{ steps.changed-files.outputs.added_files }}
         run: |
@@ -30,6 +34,7 @@ jobs:
           done
 
       - name: Discord Webhook Action
+        if: steps.changed-files.outputs.any_added == 'true'
         uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
