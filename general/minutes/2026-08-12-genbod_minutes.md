@@ -8,7 +8,7 @@
 - Events (Kwame)
   - Board Game Day on Saturday August 15 at 2pm
   - August back half TBD - Gaslands
-  - LABOR DAY BBQ Sunday September 7
+  - LABOR DAY BBQ Monday September 7
   - Oct 17-18: 10AM-4PM - Chicago Open House
   - Board Elections in October!
 - Social Media (Karl)
