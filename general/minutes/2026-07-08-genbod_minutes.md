@@ -1,46 +1,54 @@
 # Roll Call
-- Members: Erin, Andrew E, Adam, Andrew S, Henry, Dmitriy, Kalina, Renny, Dan, Chris, Ted
-- Guests: Liam, Lee 
+- Members: Erin, Andrew E, Ted, Adam, Renny, Chris, Martin, Ziggo, Dmitriy, Kalina, Henry, Russell
+- Guests: Stanley, Liam, Jim, Jen
 
 # Director and Area Reports
 - Treasurer (Dmitriy)
-  - TBD
+  - None
 - Events (Kwame)
-  - July 4 party hosted by our dear friend Adrian (ACMF)
-    - It was good
-  - Oct 17-18 - 10AM-4PM - Chicago Open House
-    - All 3 John Edel buildings this year!
+  - July 18 (this Saturday!) - Board Game Day
   - July TBD - Idols of Torment Intro Gaming Session
+  - July TBD - Space Gits?
   - August back half TBD - Gaslands
+  - Oct 17-18: 10AM-4PM - Chicago Open House
+  - Board Elections in October!
 - Social Media (Karl)
+  - Dmitriy has things
   - Please share things for social media
   - Karl is busier than usual for the forseeable future
 - Member at Large (Ben)
   - No updates
 - Front Room (Martin)
   - No updates
-  - Thank you for keeping it clean after July 4
+  - Gonna try to hang vacuum accessories
 - Rapid Prototyping Area (Ben)
-  - No updates
+  - New Bambu printer is functioning
+  - Poop chute is extruding
+  - Get trained (working on making this a thing?)
 - Back Room (Will)
-  - Erin needs to get back on the router
-  - Bandsaws switched out, make sure you get certified on the new one
+  - Erin needs a 14g wire and plug for the router table
 - Back Yard (Kalina)
-  - String lights are working!
+  - Water is full
+  - Fence is "missing"
 
 # Interest Groups
 - Metal Working Group (Victor)
-  - Next pour is Aluminum on probably July (17th or 24th)
+  - Next pour is Aluminum on probably July 24th but ?????
   - Victor wants to do a ring making class
 - Linux Users Group (Ted)
   - Still have a big ol' box of old computers
-  - August 5! Next meeting
+  - Gonna make this weekly instead of monthly! But "more official" on the first Thursday
   - Linux on PS4???
 
 # Business
-- Proposal for Bambulab H2D AMS2+HT Combo ($2400)
-  - YEA: 13; NAY: 1; ABSTAIN: 2; Motion PASSES
+- Floor jack proposal incoming
+- Magical box is here so Erin's done
+- Film developer is here
 
 # Potpourri
-- Renny is going to develop film now
-  - Hot chemical action incoming
+- Use up the color film development chemicals in the next <=6 months!!!
+  - Currently have chemicals for ~24 rolls of film
+  - Maybe we should call Kevin or just have a photography channel in Discord
+  - Screw Kevin, let's talk to Russell's grandpa. He's 92. Kevin is nice but not 92.
+- Bandsaw and FlashForge Guider II are for sale
+- Just talk to Victor
