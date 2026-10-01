@@ -1,5 +1,5 @@
 # Roll Call
-- Members: Andrew E, Ted H, Martin H, Carmello E, Kalina J, Erin S, Dmitriy V, Renny H, Chris M, Will C, Shawn C
+- Members: Andrew E, Ted H, Martin H, Carmello E, Kalina J, Erin S, Dmitriy V, Renny H, Chris M, Will C, Shawn C, Andy J, Jeff C
 
 # Director and Area Reports
 - Treasurer (Dmitriy)
